@@ -1,2 +1,2 @@
-# LynGeng.github.io
+# lyngeng.github.io
 个人站点
