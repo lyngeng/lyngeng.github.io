@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34f0d5c8-2f4a-4b51-bec6-b6c89805b85e" name="Changes" comment="readme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34f0d5c8-2f4a-4b51-bec6-b6c89805b85e" name="Changes" comment="docs(thmap): 修复文档部分问题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +45,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
       </set>
     </attachedChunks>
   </component>
@@ -55,6 +59,7 @@
       <updated>1744721077663</updated>
       <workItem from="1744721079630" duration="59000" />
       <workItem from="1744721196515" duration="1933000" />
+      <workItem from="1755156591440" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <option name="closed" value="true" />
@@ -64,7 +69,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744722297370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docs: 更新 README.md&#10;&#10;- 在 ChangeListManager 中添加了对 README.md 文件的修改&#10;- 更新了 PropertiesComponent 中的 RunOnceActivity.ShowReadmeOnStart 属性&#10;- 在 TaskManager 中添加了一个名为 &quot;readme&quot; 的任务&#10;- 更新了 VcsManagerConfiguration 中的 LAST_COMMIT_MESSAGE 属性">
+      <option name="closed" value="true" />
+      <created>1755156623219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755156623219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新thmap文档">
+      <option name="closed" value="true" />
+      <created>1755157168219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755157168219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs(thmap): 更新控制器管理文档&#10;&#10;- 在导航栏中添加 ThMap logo">
+      <option name="closed" value="true" />
+      <created>1755157869573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755157869573</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docs(thmap): 修复文档部分问题">
+      <option name="closed" value="true" />
+      <created>1755158112575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755158112575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +120,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="docs: 更新 README.md&#10;&#10;- 在 ChangeListManager 中添加了对 README.md 文件的修改&#10;- 更新了 PropertiesComponent 中的 RunOnceActivity.ShowReadmeOnStart 属性&#10;- 在 TaskManager 中添加了一个名为 &quot;readme&quot; 的任务&#10;- 更新了 VcsManagerConfiguration 中的 LAST_COMMIT_MESSAGE 属性" />
+    <MESSAGE value="更新thmap文档" />
+    <MESSAGE value="docs(thmap): 更新控制器管理文档&#10;&#10;- 在导航栏中添加 ThMap logo" />
+    <MESSAGE value="docs(thmap): 修复文档部分问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(thmap): 修复文档部分问题" />
   </component>
 </project>
