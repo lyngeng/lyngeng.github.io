@@ -1,1 +1,0 @@
-import{_ as d,c as e,o,ae as a}from"./chunks/framework.C8u8obHp.js";const u=JSON.parse('{"title":"类型定义","description":"","frontmatter":{},"headers":[],"relativePath":"type/index.md","filePath":"type/index.md"}'),r={name:"type/index.md"};function h(i,t,n,c,l,b){return o(),e("div",null,t[0]||(t[0]=[a("",337)]))}const y=d(r,[["render",h]]);export{u as __pageData,y as default};
